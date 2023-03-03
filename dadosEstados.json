@@ -1,0 +1,22 @@
+[
+  {
+    "Estado": "SP",
+    "Faturamento_Mes": 67836.43
+  },
+  {
+    "Estado": "RJ",
+    "Faturamento_Mes": 36678.66
+  },
+  {
+    "Estado": "MG",
+    "Faturamento_Mes": 29229.88
+  },
+  {
+    "Estado": "ES",
+    "Faturamento_Mes": 27165.48
+  },
+  {
+    "Estado": "Outros",
+    "Faturamento_Mes": 19849.53
+  }
+]
